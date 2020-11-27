@@ -1,6 +1,6 @@
 package com.lab_6;
 
-class Dove extends Bird{
+class Dove extends Bird implements WishingZoo{ // Голубь
 
     public Dove(String name) {
         super(name);
