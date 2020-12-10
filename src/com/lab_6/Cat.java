@@ -10,4 +10,5 @@ class Cat extends Animal implements WishingZoo {
     public void say() {
         System.out.println("Мяу");
     }
+
 }

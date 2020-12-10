@@ -1,5 +1,3 @@
 package com.lab_6;
 
-public interface Coldloving {
-
-}
+public interface Coldloving {}
